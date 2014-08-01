@@ -162,21 +162,21 @@ else
 
 
 
-url_tracking_init.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%20init&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_init.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%20init&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_1h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%201h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_1h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%201h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_6h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%206h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_6h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%206h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_12h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%2012h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_12h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%2012h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_24h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%2024h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_24h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%2024h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_48h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%2048h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_48h.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%2048h&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_7d.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.0%207d&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_7d.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url.html&ul=en-us&ua=wallet%20Zebra%201.1%207d&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
-url_tracking_clicked.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url_clicked.html&ul=en-us&ua=wallet%20Zebra%201.0%20clicked&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
+url_tracking_clicked.setUrl(QString("http://www.google-analytics.com/collect?v=1&t=pageview&dl=http%3A%2F%2Fzebracoin.comule.com%2Fbanner_url_clicked.html&ul=en-us&ua=wallet%20Zebra%201.1%20clicked&cid=%1&tid=UA-52905260-1").arg(str_myquuid));
 
 
 ///////////  dl banner gif   ///////////////////////////

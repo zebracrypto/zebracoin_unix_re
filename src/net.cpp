@@ -1138,18 +1138,10 @@ void MapPort()
 // Each pair gives a source name and a seed name.
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
-//Hashlink node : 88.213.221.77
 static const char *strDNSSeed[][7] = {
 	{"node1.zebracoin.com", "15.126.216.120"},
 	{"node2.zebracoin.com", "15.126.233.218"},
-    	{"node3.zebracoin.com", "37.59.21.199"},
 	{"zebra.suprnova.cc", "zebra.suprnova.cc"},
-	{"erebor.dwarfpool.com", "erebor.dwarfpool.com"},
-	{"moria.dwarfpool.com", "moria.dwarfpool.com"},
-	{"88.213.221.77", "88.213.221.77"},
-	{"zebra.minerpools.com", "zebra.minerpools.com"},
-
-
 
 };
 
